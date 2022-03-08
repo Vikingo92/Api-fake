@@ -1,0 +1,106 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Jimmy Linares",
+      "email": "alexander@gmail.com",
+      "password": "123asd"
+    },
+    {
+      "id": 2,
+      "nombre": "Mariana Urrego",
+      "email": "mariana@gmail.com",
+      "password": "178dfjh"
+    },
+    {
+      "nombre": "alexander",
+      "email": "axel@gmail.com",
+      "password": "34356",
+      "phone": "2145",
+      "id": 3
+    },
+    {
+      "nombre": "Jorge ENRIQUE",
+      "email": "jorge@gmail.com",
+      "password": "dgjcghj132",
+      "phone": "34546",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "nombre": "Carlos",
+      "email": "carlos@gmail.com",
+      "password": "123",
+      "phone": "12345",
+      "id": 7
+    },
+    {
+      "nombre": "angelica",
+      "email": "angelica@gmail.com",
+      "password": "1234",
+      "phone": "122334",
+      "id": 8
+    },
+    {
+      "nombre": "karen lozano",
+      "email": "lozano@gmail.com",
+      "password": "124324",
+      "phone": "23254",
+      "id": 9
+    },
+    {
+      "nombre": "CAMILA",
+      "email": "camila@gmail.com",
+      "password": "345",
+      "phone": "2345",
+      "id": 10
+    },
+    {
+      "nombre": "alexander",
+      "email": "alexander@gmail.com",
+      "password": "213342",
+      "phone": "324325",
+      "id": 11
+    },
+    {
+      "nombre": "undefined",
+      "email": "alexander@gmail.com",
+      "password": "32445",
+      "phone": "343",
+      "id": 12
+    },
+    {
+      "nombre": "monica linares",
+      "email": "monica@gmail.com",
+      "password": "djjds",
+      "phone": "32432",
+      "id": 13
+    },
+    {
+      "nombre": "Jorge ENRIQUE",
+      "email": "jorge@gmail.com",
+      "password": "dgjcghj132",
+      "phone": "34546",
+      "id": 14
+    },
+    {
+      "nombre": "Jorge ENRIQUE",
+      "email": "jorge@gmail.com",
+      "password": "dgjcghj132",
+      "phone": "34546",
+      "id": 15
+    },
+    {
+      "nombre": "andres",
+      "email": "andres@gmail.com",
+      "password": "1324",
+      "phone": "387432687",
+      "id": 16
+    }
+  ]
+}

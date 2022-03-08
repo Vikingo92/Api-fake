@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/style.css">
+    <title>Home | Fake API</title>
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <nav id="navbar">
+        <h2>Entertaiment</h2>
+        <form id="formulario">
+            <div>
+                <label for="buscar">Buscar
+                    <input id="buscar" type="text" placeholder="Buscar">
+                </label>
+            </div>
+        </form>
+        <button id="login">Login</button>
+    </nav>
+
+    <main id="render"></main>
+
+    <template id="template-card">
+        <div class="card">
+            <div class="card-body">
+                <img src="" class="initial-img">
+                <h1 class="card-title">
+                    Title
+                </h1>
+                <p class="card-text">Género</p>
+            </div>
+            <div class="description">
+                <div class="card-info">
+                    <h3>Descripción</h3>
+                    <p></p>
+                </div>
+                <div class="card-info">
+                    <h2></h2>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <script src="./data/data.json"></script>
+    <script src="./scripts/script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/style.css">
+    <link rel="stylesheet" href="../styles/login.css">
+    <title>Login |</title>
+</head>
+
+<body>
+
+    <nav id="navbar">
+        <h2>Entertaiment</h2>
+        <ul>
+            <li><a href="../index.html">Home</a></li>
+        </ul>
+    </nav>
+
+    <main>
+
+        <form id="formulario">
+            <div class="datos">
+
+                <label for="dato1">
+                    <input type="text" id="dato1" placeholder="Ingresa tu nombre" required>
+                </label><br>
+
+                <label for="dato2">
+                    <input type="email" id="dato2" placeholder="Ingresa tu email" required>
+                </label><br>
+
+                <label for="dato3">
+                    <input type="password" id="dato3" placeholder="Contraseña" required>
+                </label><br>
+
+                <label for="dato4">
+                    <input type="text" id="dato4" placeholder="(+57) Teléfono" required>
+                </label><br>
+
+                <label for="id">
+                    <input type="text" id="id" name="id" placeholder="ID">
+                </label><br>
+                <!-- Botones -->
+                <div>
+                    <button id="guardar" type="submit">Enviar</button>
+                    <button id="correo" type="button">Buscar</button>
+                    <button id="editar" type="button">Editar</button>
+                    <button id="eliminar" type="button">Eliminar</button>
+                </div>
+
+                <div>
+                    <p id="alerta"></p>
+                </div>
+            </div>
+        </form>
+    </main>
+
+
+
+
+    <script src="../scripts/login.js"></script>
+</body>
+
+</html>

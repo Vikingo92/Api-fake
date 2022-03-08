@@ -1,0 +1,95 @@
+{
+    "series": [
+        {
+            "id": 1,
+            "name": "Succesion",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem voluptate qui distinctio porro quibusdam assumenda quas?",
+            "image": "./images/sucesions.jpg",
+            "genre": "Comedia negra"
+        },
+        {
+            "id": 2,
+            "name": "Tokyo Revengers",
+            "description": "Tokyo Revengers es una serie de manga escrita e ilustrada por Ken Wakui, publicada en el semanario Shūkan Shōnen Magazine de Kōdansha desde marzo de 2017.",
+            "image": "./images/anime.jpg",
+            "genre": "Serie de cómic"
+        },
+        {
+            "id": 3,
+            "name": "Cruela",
+            "description": "Decidida a convertirse en una exitosa diseñadora de moda, una joven y creativa estafadora llamada Estella se asocia con un par de ladrones para sobrevivir en las calles de Londres.",
+            "image": "./images/cruela.jpg",
+            "genre": "Comedia/Crimen"
+        },
+        {
+            "id": 4,
+            "name": "Demon Slayer",
+            "description": "Kimetsu no Yaiba, también conocida bajo su nombre en inglés Demon Slayer, es una serie de manga escrita e ilustrada por Koyoharu Gotōge,",
+            "image": "./images/demon slayer.jpg",
+            "genre": "Serie de cómic"
+        },
+        {
+            "id": 5,
+            "name": "Euphoria",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem voluptate qui distinctio porro quibusdam assumenda quas?",
+            "image": "./images/euphoria.jpg",
+            "genre": "Drama"
+        },
+        {
+            "id": 6,
+            "name": "Godzilla",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem voluptate qui distinctio porro quibusdam assumenda quas?",
+            "image": "./images/Godzilla.jpg",
+            "genre": "Comedia negra"
+        },
+        {
+            "id": 7,
+            "name": "OddTaxi",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem voluptate qui distinctio porro quibusdam assumenda quas?",
+            "image": "./images/oddtaxi.jpg",
+            "genre": "Comedia negra"
+        },
+        {
+            "id": 8,
+            "name": "Sophie Un asesinato",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem voluptate qui distinctio porro quibusdam assumenda quas?",
+            "image": "./images/Sophie Un asesinato en Cork.jpg",
+            "genre": "Comedia negra"
+        },
+        {
+            "id": 9,
+            "name": "SpiderMan",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem voluptate qui distinctio porro quibusdam assumenda quas?",
+            "image": "./images/SpiderMan.jpg",
+            "genre": "Comedia negra"
+        },
+        {
+            "id": 10,
+            "name": "Th Sons of Sam",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem voluptate qui distinctio porro quibusdam assumenda quas?",
+            "image": "./images/the_sons_of_sam.jpg",
+            "genre": "Comedia negra"
+        },
+        {
+            "id": 11,
+            "name": "The Hand Meid Tale",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem voluptate qui distinctio porro quibusdam assumenda quas?",
+            "image": "./images/the hand meid tale.jpg",
+            "genre": "Comedia negra"
+        },
+        {
+            "id": 12,
+            "name": "WestWorld",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem voluptate qui distinctio porro quibusdam assumenda quas?",
+            "image": "./images/westworld.jpg",
+            "genre": "Comedia negra"
+        },
+        {
+            "id": 13,
+            "name": "Succesion",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem voluptate qui distinctio porro quibusdam assumenda quas?",
+            "image": "./images/sucesions.jpg",
+            "genre": "Comedia negra"
+        }
+    ]
+}

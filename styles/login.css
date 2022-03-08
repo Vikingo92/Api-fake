@@ -1,0 +1,110 @@
+:root {
+    --soft-blue: hsl(231, 69%, 60%);    
+    --soft-red: hsl(0, 94%, 66%);
+    --grayish-blue: hsl(229, 8%, 60%);
+    --very-dark-blue: hsl(229, 31%, 21%);
+    --green: hsl(140, 94%, 38%);
+}
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-size:medium;
+    margin:0;
+    font-family:monospace;
+}
+
+#formulario{
+    text-align:center;
+    margin:0 auto;
+    height: 600px;
+    width: 500px;
+    border: 2px solid white;
+    align-content: center;
+    display:block;
+    margin:0 auto;
+}
+
+.formulario, p{
+    font-size: 20px;
+    padding: 10px;
+    display:block;
+    margin:0 auto;    
+}
+
+#formulario{
+    display:flex;
+    align-items:center;
+    justify-content: space-around;
+    display:block;
+    margin:0 auto;
+    margin-top:70px;
+    margin-bottom:70px;
+}
+
+.datos button{
+    align-items: center;
+    margin-left:90px;
+    display:block;
+    margin:0 auto;
+    margin-top:20px;
+    width: 200px;
+    height:30px;
+}
+
+label{
+    display: block;
+    margin:0;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    font-size:30px;
+}
+
+li{
+    list-style: none;
+    color:white;
+    font-size:30px;
+
+}
+
+ul{
+    display:flex;
+    justify-content: space-around;
+    margin:10px;
+    margin-left:15px;
+}
+
+
+#guardar{
+    background-color: var(--green);
+    color:white;
+    border-radius: 5px;
+}
+
+#correo {
+    background-color:var(--soft-blue);
+    color:white;
+    border-radius:5px;
+}
+
+#editar{
+    background-color:var(--very-dark-blue);
+    color:white;
+    border-radius:5px;
+
+}
+
+#eliminar{
+    background-color:var(--soft-red);
+    color:white;
+    border-radius:5px;
+
+}
